@@ -11,7 +11,6 @@
 print('\n\nAll requirements successfully installed.')
 
 #===================================================================
-
 #@title Code - Load dependencies
 
 # data
